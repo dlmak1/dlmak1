@@ -78,8 +78,6 @@ Full-stack platform for discovering and sharing places to relax in Ukraine, feat
 
 A personal note-taking application with user authentication, protected routes, tag filtering, search, pagination, profile management, and locally persisted note drafts. Uses the public GoIT NoteHub API.
 
-**Repository:** [NoteHub on GitHub](https://github.com/dlmak1/notehub-workspace)
-
 **Live Demo:** [NoteHub](https://09-auth-snowy-seven.vercel.app/)
 
 ### 🎵 [ArtistsHub](https://github.com/dlmak1/artists-hub)
