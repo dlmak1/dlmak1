@@ -71,6 +71,15 @@ Full-stack platform for discovering and sharing places to relax in Ukraine, feat
 **Repositories:** [Frontend](https://github.com/dlmak1/PW-RelaxMap-Frontend) · [Backend](https://github.com/dlmak1/PW-RelaxMap-Backend)  
 **Live Demo:** [RelaxMap](https://pw-relax-map-frontend.vercel.app/)
 
+### 📝 [NoteHub — Personal Notes Workspace](https://github.com/dlmak1/notehub-workspace)
+**Next.js · React · TypeScript · Zustand · TanStack Query · Axios · CSS Modules**
+
+**Individual learning project · Frontend Developer**
+
+A personal note-taking application with user authentication, protected routes, tag filtering, search, pagination, profile management, and locally persisted note drafts. Uses the public GoIT NoteHub API.
+
+**Repository:** [NoteHub on GitHub](https://github.com/dlmak1/notehub-workspace)
+
 ### 🎵 [ArtistsHub](https://github.com/dlmak1/artists-hub)
 **HTML · CSS · JavaScript · REST API · Vite**
 
