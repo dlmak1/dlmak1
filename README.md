@@ -80,6 +80,8 @@ A personal note-taking application with user authentication, protected routes, t
 
 **Repository:** [NoteHub on GitHub](https://github.com/dlmak1/notehub-workspace)
 
+**Live Demo:** [NoteHub](https://09-auth-snowy-seven.vercel.app/)
+
 ### 🎵 [ArtistsHub](https://github.com/dlmak1/artists-hub)
 **HTML · CSS · JavaScript · REST API · Vite**
 
