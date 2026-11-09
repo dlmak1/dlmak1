@@ -52,16 +52,6 @@
 
 ## 💼 Featured Projects
 
-### 🗺️ [RelaxMap](https://github.com/jjkkrrxx/PW-RelaxMap-Frontend)
-**Next.js · React · TypeScript · Zustand · TanStack Query · Node.js · Express.js · MongoDB (Mongoose)**
-
-**Team project · Fullstack Developer (Frontend & Backend)**
-
-Full-stack platform for discovering and sharing places to relax in Ukraine, featuring a location catalog, filters, interactive maps, user accounts, reviews, and location management.
-
-**Repositories:** [Frontend](https://github.com/jjkkrrxx/PW-RelaxMap-Frontend) · [Backend](https://github.com/jjkkrrxx/PW-RelaxMap-Backend)  
-**Live Demo:** [RelaxMap](https://pw-relax-map-frontend.vercel.app/)
-
 ### 🚐 [TravelTrucks](https://github.com/dlmak1/travel-trucks)
 **Next.js · React · TypeScript · CSS Modules · TanStack Query · REST API**
 
@@ -70,6 +60,16 @@ Full-stack platform for discovering and sharing places to relax in Ukraine, feat
 A camper rental catalog with filtering, paginated results, detailed camper pages, reviews, and booking requests powered by the public Campers API.
 
 **Live Demo:** [TravelTrucks](https://travel-trucks-eta-rust.vercel.app/)
+
+### 🗺️ [RelaxMap](https://github.com/dlmak1/PW-RelaxMap-Frontend)
+**Next.js · React · TypeScript · Zustand · TanStack Query · Node.js · Express.js · MongoDB (Mongoose)**
+
+**Team project · Fullstack Developer (Frontend & Backend)**
+
+Full-stack platform for discovering and sharing places to relax in Ukraine, featuring a location catalog, filters, interactive maps, user accounts, reviews, and location management.
+
+**Repositories:** [Frontend](https://github.com/dlmak1/PW-RelaxMap-Frontend) · [Backend](https://github.com/dlmak1/PW-RelaxMap-Backend)  
+**Live Demo:** [RelaxMap](https://pw-relax-map-frontend.vercel.app/)
 
 ### 🎵 [ArtistsHub](https://github.com/dlmak1/artists-hub)
 **HTML · CSS · JavaScript · REST API · Vite**
