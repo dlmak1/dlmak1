@@ -53,39 +53,45 @@
 ## 💼 Featured Projects
 
 ### 🚐 [TravelTrucks](https://github.com/dlmak1/travel-trucks)
-**Next.js · React · TypeScript · CSS Modules · TanStack Query · REST API**
+**Next.js · React · TypeScript · TanStack Query · Axios · CSS Modules**
 
 **Individual project · Frontend Developer**
 
-A camper rental catalog with filtering, paginated results, detailed camper pages, reviews, and booking requests powered by the public Campers API.
+- Developed responsive camper catalog and detail pages with image galleries and customer reviews.
+- Implemented API-powered filtering, incremental pagination, and data caching with TanStack Query.
+- Built a booking contact-request form with validation, API submission, and error handling.
 
 **Live Demo:** [TravelTrucks](https://travel-trucks-eta-rust.vercel.app/)
 
 ### 🗺️ [RelaxMap](https://github.com/dlmak1/PW-RelaxMap-Frontend)
-**Next.js · React · TypeScript · Zustand · TanStack Query · Node.js · Express.js · MongoDB (Mongoose)**
+**Next.js · React · TypeScript · Node.js · Express.js · MongoDB (Mongoose)**
 
 **Team project · Fullstack Developer (Frontend & Backend)**
 
-Full-stack platform for discovering and sharing places to relax in Ukraine, featuring a location catalog, filters, interactive maps, user accounts, reviews, and location management.
+- Developed responsive location detail pages with reusable gallery, information, and description components.
+- Built an Express.js endpoint using MongoDB and Mongoose to retrieve location details, owner information, and reviews.
+- Improved server-side data fetching, image loading, and responsive layouts.
 
 **Repositories:** [Frontend](https://github.com/dlmak1/PW-RelaxMap-Frontend) · [Backend](https://github.com/dlmak1/PW-RelaxMap-Backend)  
 **Live Demo:** [RelaxMap](https://pw-relax-map-frontend.vercel.app/)
 
 ### 📝 [NoteHub — Personal Notes Workspace](https://github.com/dlmak1/notehub-workspace)
-**Next.js · React · TypeScript · Zustand · TanStack Query · Axios · CSS Modules**
+**Next.js · React · TypeScript · Zustand · TanStack Query · Axios**
 
 **Individual learning project · Frontend Developer**
 
-A personal note-taking application with user authentication, protected routes, tag filtering, search, pagination, profile management, and locally persisted note drafts. Uses the public GoIT NoteHub API.
+- Built a notes workspace with registration, sign-in, protected routes, search, category filtering, and pagination.
+- Implemented session management, a Next.js API proxy to the public GoIT NoteHub API, and persisted note drafts with Zustand.
 
 **Live Demo:** [NoteHub](https://09-auth-snowy-seven.vercel.app/)
 
 ### 🎵 [ArtistsHub](https://github.com/dlmak1/artists-hub)
-**HTML · CSS · JavaScript · REST API · Vite**
+**HTML · CSS · JavaScript · Vite · Git/GitHub**
 
 **Team project · Frontend Developer**
 
-Developed the header, footer, and responsive mobile menu; contributed to performance optimization and API integration.
+- Developed responsive header, footer, and interactive mobile navigation with keyboard support.
+- Improved navigation usability with a sticky header, hover/focus effects, and responsive layout fixes.
 
 **Live Demo:** [ArtistsHub](https://vitalii-mieliet.github.io/artists-hub/)
 
