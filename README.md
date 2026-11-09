@@ -1,69 +1,87 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/dmytro-severyn/">Dmytro Severyn</a></h1>
-<h3 align="center">Junior Front-End Developer | React • TypeScript</h3>
+<h3 align="center">Fullstack Developer | React · Next.js · Node.js · TypeScript</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="center">
-  I strive to create modern, responsive and accessible web applications.<br>
-  Currently growing in Fullstack development and open to Junior / Intern opportunities.
+  I build modern, responsive, and accessible web applications.<br>
+  Growing as a Fullstack Developer and open to Junior / Intern opportunities.
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-`React` · `Redux Toolkit` · `TypeScript` · `JavaScript (ES6+)` · `HTML5` · `CSS3` · `Vite` · `Next.js`
+**Frontend**
 
-**Tools & Workflow:**  
-`Git` · `GitHub` · `Postman` · `Vercel` · `Agile / Scrum` · `Figma`
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-000000?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=646CFF)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-000000?style=for-the-badge&logo=reactquery&logoColor=FF4154)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Mongoose](https://img.shields.io/badge/Mongoose-000000?style=for-the-badge&logo=mongoose&logoColor=880000)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Agile / Scrum](https://img.shields.io/badge/Agile_%2F_Scrum-000000?style=for-the-badge)
 
 ---
 
 ## 👤 About Me
 
-- 🚀 Junior Front-End Developer transitioning from Project Management after nearly 2 years in IT (e-commerce)
-- 🎓 Master’s degree in Computer Science (Oles Honchar Dnipro National University)
-- 🧑‍💼 Former Project Manager — led a team, increased project value by 40%, optimized processes and automated CMS templates
-- 💡 I strive to develop modern, responsive and accessible web applications
-- 📈 Continuously improving skills and open to Junior / Intern opportunities
-- 🇺🇦 Based in Ukraine (Dnipro) | 🇬🇧 English: Pre-Intermediate (actively improving)
+- 🚀 Fullstack Developer transitioning from Project Management after nearly 2 years in IT (e-commerce)
+- 🎓 Master's degree in Computer Science — Oles Honchar Dnipro National University
+- 🧑‍💼 Former Project Manager — led a team, increased project value by 40%, optimized processes, and automated CMS templates
+- 💡 Focused on building responsive, accessible, and user-friendly applications
+- 📈 Continuously improving my skills; open to Junior / Intern opportunities
+- 🇺🇦 Based in Dnipro, Ukraine | 🇬🇧 English: Pre-Intermediate (actively improving)
 
 ---
 
 ## 💼 Featured Projects
 
+### 🗺️ [RelaxMap](https://github.com/jjkkrrxx/PW-RelaxMap-Frontend)
+**Next.js · React · TypeScript · Zustand · TanStack Query · Node.js · Express.js · MongoDB (Mongoose)**
+
+**Team project · Fullstack Developer (Frontend & Backend)**
+
+Full-stack platform for discovering and sharing places to relax in Ukraine, featuring a location catalog, filters, interactive maps, user accounts, reviews, and location management.
+
+**Repositories:** [Frontend](https://github.com/jjkkrrxx/PW-RelaxMap-Frontend) · [Backend](https://github.com/jjkkrrxx/PW-RelaxMap-Backend)  
+**Live Demo:** [RelaxMap](https://pw-relax-map-frontend.vercel.app/)
+
+### 🚐 [TravelTrucks](https://github.com/dlmak1/travel-trucks)
+**Next.js · React · TypeScript · CSS Modules · TanStack Query · REST API**
+
+**Individual project · Frontend Developer**
+
+A camper rental catalog with filtering, paginated results, detailed camper pages, reviews, and booking requests powered by the public Campers API.
+
+**Live Demo:** [TravelTrucks](https://travel-trucks-eta-rust.vercel.app/)
+
 ### 🎵 [ArtistsHub](https://github.com/dlmak1/artists-hub)
-**HTML · CSS · JavaScript · REST API · Vite · MVP**  
-Team project · Front-End Developer  
+**HTML · CSS · JavaScript · REST API · Vite**
 
-Developed Header, Footer, responsive mobile menu, and contributed to performance optimization and API integration.  
+**Team project · Frontend Developer**
 
-➡️ [Live Demo](https://vitalii-mieliet.github.io/artists-hub/)
+Developed the header, footer, and responsive mobile menu; contributed to performance optimization and API integration.
 
-### ⌚ [WatchCharm](https://github.com/dlmak1/watchcharm)
-**HTML · CSS · JavaScript · Adaptive design · Git/GitHub**  
-Team project · Front-End Developer  
-
-Developed responsive sections from Figma, implemented modals and mobile menu, worked with Git flow (branches, PRs, reviews).  
-
-➡️ [Live Demo](https://vitalii-mieliet.github.io/watchcharm/)
-
-### 🖥️ [WebStudio](https://github.com/dlmak1/web-studio)
-**HTML · CSS · Responsive design · Git/GitHub**  
-Individual project · Front-End Developer  
-
-Developed a fully responsive portfolio site for a fictional web studio with semantic HTML and adaptive layout.  
-
-➡️ [Live Demo](https://dlmak1.github.io/web-studio/)
+**Live Demo:** [ArtistsHub](https://vitalii-mieliet.github.io/artists-hub/)
 
 ---
 
